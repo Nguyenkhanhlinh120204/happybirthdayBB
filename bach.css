@@ -1053,8 +1053,10 @@ span{
     }
     .container .cake img{
             width: 300px;
-            height: 300px;
-            top: 25%;
+            height: 34  0px;
+            top: 15%;
+            right: 10%;
+            
     }
     .container .box-firework .firework{
         margin-top: -60px;
@@ -1074,6 +1076,8 @@ span{
     .container .cute1::after{
         width: 40px;
         font-size: 7px;
+        margin-top: -27px;
+        margin-left: -30px;
     }
     .container .cute2 img{
         width: 60px;
@@ -1082,12 +1086,13 @@ span{
         width: 50px;
         font-size: 7px;
         height: 10px;
+        margin-top: -20px;
     }
     .container .cute2{
-        top: 200px;
+        top: 220px;
     }
     .container .cute3 {
-        top:100px;
+        top:130px;
     }
 
     .container .cute3 img{
@@ -1096,7 +1101,9 @@ span{
         
     }
     .container .cute3::after{
-        width: 50px;
+        width: 40px;
         font-size: 7px;
+        /* height: 8px; */
+        margin-top: -20px;
     }
 }
